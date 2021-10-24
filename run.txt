@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO Congratulations! Your program is execute
+python labelImg.py
